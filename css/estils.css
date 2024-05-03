@@ -61,7 +61,7 @@ body {
 
 /* Estilos para barra de navegación */
 .navbar {
-    background-color: #333; /* Color de fondo */
+    background-color: #00498d; /* Color de fondo */
     padding: 10px; /* Relleno */
     text-align: center; /* Alineación del texto */
 }
@@ -75,7 +75,7 @@ body {
 
 /* Estilos para enlaces de navegación al pasar el mouse */
 .nav-link:hover {
-    background-color: #555; /* Color de fondo al pasar el mouse */
+    background-color: #749eff; /* Color de fondo al pasar el mouse */
 }
 
 /* Estilos para elementos de la barra de navegación */
@@ -86,7 +86,7 @@ body {
 
 /* Estilos para pie de página */
 footer {
-    background-color: #333; /* Color de fondo */
+    background-color: #00498d; /* Color de fondo */
     padding: 20px 0; /* Relleno */
     color: #fff; /* Color del texto */
     text-align: center; /* Alineación del texto */
@@ -116,6 +116,9 @@ footer {
 /* Estilos para títulos de nivel 4 */
 h4 {
     text-align: center; /* Alineación del texto al centro */
+}
+video {
+   text-align: center;
 }
 
 /* Estilos de medios para pantallas pequeñas */
