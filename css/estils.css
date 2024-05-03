@@ -120,6 +120,20 @@ h4 {
 video {
    text-align: center;
 }
+/* Estilo para centrar el contenedor del video */
+.video-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Esto centra verticalmente el video */
+}
+
+/* Estilo opcional para el tamaño del video */
+iframe {
+    width: 80%; /* Puedes ajustar este valor según tus preferencias */
+    height: auto; /* Para mantener la proporción del video */
+}
+
 
 /* Estilos de medios para pantallas pequeñas */
 @media only screen and (max-width: 500px) {
